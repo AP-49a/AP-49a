@@ -14,8 +14,4 @@
 - PUSTI TUSTI
 
 🛠 Tech Stack:
-HTML | CSS | JavaScript | C | Python | FastAPI | Streamlit
-
-📫 Connect with me:
-LinkedIn: Your LinkedIn
-Email: your email
+HTML | CSS | JavaScript (partially) | C | Java
