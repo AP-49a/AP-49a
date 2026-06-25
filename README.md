@@ -5,7 +5,6 @@
 💻 Currently Learning:
 - JavaScript
 - DBMS
-- C Programming
 - DSA
 
 🚀 Projects:
