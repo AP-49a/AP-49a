@@ -7,8 +7,5 @@
 - DBMS
 - DSA
 
-🚀 Projects:
-- SkillSwap
-
 🛠 Tech Stack:
 HTML | CSS | JavaScript (partially) | C | Java
